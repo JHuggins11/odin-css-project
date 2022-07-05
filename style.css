@@ -1,5 +1,7 @@
 header,
 section,
+.container,
+.header-links,
 .intro-left,
 .intro-right  {
     display: flex;
