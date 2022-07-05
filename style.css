@@ -1,0 +1,7 @@
+header,
+section,
+.intro-left,
+.intro-right  {
+    display: flex;
+}
+
