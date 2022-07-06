@@ -12,6 +12,11 @@ header,
     background-color: #1F2937;
 }
 
+header {
+    justify-content: center;
+    align-items: center;
+}
+
 .header-logo {
     font-size: 24px;
     font-weight: bold;
