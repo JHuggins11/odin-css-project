@@ -40,7 +40,8 @@ a {
 }
 
 .header-logo,
-.hero {
+.hero,
+.btn-signup {
     color: #F9FAF8;
 }
 
@@ -68,6 +69,15 @@ a {
 
 .hero-subtext {
     margin-bottom: 12px;
+}
+
+.btn-signup {
+    width: 100px;
+    padding: 8px;
+    border: 0;
+    border-radius: 8px;
+    background-color: #3882F6;
+    font-weight: bold;
 }
 
 .img-placeholder {
