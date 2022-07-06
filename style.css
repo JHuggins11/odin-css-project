@@ -17,6 +17,10 @@ header {
     align-items: center;
 }
 
+ul {
+    list-style-type: none;
+}
+
 .header-logo {
     font-size: 24px;
     font-weight: bold;
