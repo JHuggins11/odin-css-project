@@ -21,6 +21,11 @@ ul {
     list-style-type: none;
 }
 
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
 .header-logo {
     font-size: 24px;
     font-weight: bold;
@@ -29,5 +34,4 @@ ul {
 
 .header-links {
     font-size: 18px;
-    color: #E5E7EB;
 }
