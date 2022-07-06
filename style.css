@@ -16,6 +16,7 @@ body {
 header,
 .intro {
     background-color: #1F2937;
+    flex: 1;
 }
 
 header {
