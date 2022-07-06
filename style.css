@@ -30,9 +30,14 @@ ul {
     list-style-type: none;
 }
 
+a, 
+.hero-subtext,
+.img-placeholder {
+    color: #E5E7EB;
+}
+
 a {
     text-decoration: none;
-    color: #E5E7EB;
 }
 
 .header-logo,
