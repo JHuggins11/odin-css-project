@@ -17,6 +17,7 @@ header,
 .intro {
     background-color: #1F2937;
     flex: 1;
+    padding: 0 250px;
 }
 
 header {
