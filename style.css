@@ -1,3 +1,4 @@
+body,
 header,
 section,
 .container,
@@ -5,6 +6,11 @@ section,
 .intro-left,
 .intro-right  {
     display: flex;
+}
+
+body {
+    height: 100vh;
+    flex-direction: column;
 }
 
 header,
