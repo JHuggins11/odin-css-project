@@ -70,6 +70,12 @@ a {
     margin-bottom: 12px;
 }
 
+.img-placeholder {
+    height: 200px;
+    width: 300px;
+    margin: 24px;
+}
+
 /* Second section */
 
 
