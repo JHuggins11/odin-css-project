@@ -11,6 +11,7 @@ section,
 body {
     height: 100vh;
     flex-direction: column;
+    margin: 0;
 }
 
 /* First section (including header) */
