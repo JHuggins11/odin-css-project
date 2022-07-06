@@ -44,3 +44,7 @@ a {
     gap: 24px;
     margin-left: auto;
 }
+
+.intro-left {
+    flex-direction: column;
+}
