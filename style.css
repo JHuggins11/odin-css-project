@@ -54,6 +54,11 @@ a {
     flex-direction: column;
 }
 
+.hero {
+    font-size: 48px;
+    font-weight: bolder;
+}
+
 /* Second section */
 
 
