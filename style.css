@@ -63,6 +63,11 @@ a {
 .hero {
     font-size: 48px;
     font-weight: bolder;
+    margin-bottom: 0;
+}
+
+.hero-subtext {
+    margin-bottom: 12px;
 }
 
 /* Second section */
