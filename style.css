@@ -34,4 +34,5 @@ a {
 
 .header-links {
     font-size: 18px;
+    gap: 24px;
 }
