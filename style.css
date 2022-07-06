@@ -57,6 +57,7 @@ a {
 
 .intro-left {
     flex-direction: column;
+    margin-right: auto;
 }
 
 .hero {
