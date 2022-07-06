@@ -31,8 +31,7 @@ ul {
 }
 
 a, 
-.hero-subtext,
-.img-placeholder {
+.hero-subtext {
     color: #E5E7EB;
 }
 
@@ -72,8 +71,8 @@ a {
 
 .img-placeholder {
     height: 200px;
-    width: 300px;
-    margin: 24px;
+    width: 600px;
+    background-color: #b6b6b6;
 }
 
 /* Second section */
