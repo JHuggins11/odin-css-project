@@ -107,6 +107,12 @@ a {
     align-items: center;
 }
 
+.info-heading {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
 /* Third section */
 
 
