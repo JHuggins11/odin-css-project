@@ -8,7 +8,9 @@ section,
 .container,
 .header-links,
 .intro-left,
-.intro-right  {
+.intro-right,
+.info-img-row,
+.info-img {
     display: flex;
 }
 
