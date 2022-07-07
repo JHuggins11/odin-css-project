@@ -124,6 +124,11 @@ a {
     align-self: center;
 }
 
+.info-img-subtext {
+    width: 200px;
+    text-align: center;
+}
+
 /* Third section */
 
 
