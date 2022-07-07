@@ -113,6 +113,13 @@ a {
     color: #1F2937;
 }
 
+.info-img-placeholder {
+    height: 150px;
+    width: 150px;
+    border: 3px solid #3882F6;
+    align-self: center;
+}
+
 /* Third section */
 
 
