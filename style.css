@@ -103,6 +103,10 @@ a {
     flex-direction: column;
 }
 
+.info {
+    align-items: center;
+}
+
 /* Third section */
 
 
