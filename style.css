@@ -115,6 +115,10 @@ a {
     color: #1F2937;
 }
 
+.info-img-row {
+    margin-top: 20px;
+}
+
 .info-img {
     gap: 10px;
 }
