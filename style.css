@@ -98,7 +98,10 @@ a {
 }
 
 /* Second section */
-
+.info,
+.info-img {
+    flex-direction: column;
+}
 
 /* Third section */
 
