@@ -134,6 +134,7 @@ a {
 .info-img-subtext {
     width: 200px;
     text-align: center;
+    margin: 0;
 }
 
 /* Third section */
