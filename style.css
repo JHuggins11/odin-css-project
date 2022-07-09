@@ -10,7 +10,7 @@ section,
 .header-links,
 .intro-left,
 .intro-right,
-.info-img-row,
+.info-img-container,
 .info-img {
     display: flex;
 }
@@ -117,7 +117,7 @@ a {
     color: #1F2937;
 }
 
-.info-img-row {
+.info-img-container {
     margin-top: 20px;
 }
 
