@@ -170,6 +170,7 @@ a {
 
 /* Fourth section */
 .signup-box {
+    padding: 40px 100px;
     margin: 100px auto;
     gap: 240px;
     background-color: #3882F6;
