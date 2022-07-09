@@ -171,6 +171,7 @@ a {
 /* Fourth section */
 .signup-box,
 .btn-signup-box {
+    border-radius: 8px;
     background-color: #3882F6;
     color: #F9FAF8;
 }
@@ -200,7 +201,6 @@ a {
     width: 110px;
     padding: 0;
     border: 2px solid #F9FAF8;
-    border-radius: 8px;
     font-size: 14px;
     font-weight: bold;
 }
