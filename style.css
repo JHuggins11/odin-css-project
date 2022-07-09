@@ -208,3 +208,6 @@ a {
 }
 
 /* Footer */
+footer {
+    justify-content: center;
+}
