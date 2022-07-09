@@ -11,7 +11,7 @@ footer,
 .header-links,
 .intro-left,
 .intro-right,
-.img-placeholder,
+.intro-img-placeholder,
 .info-img-container,
 .info-img,
 .signup-box,
@@ -99,7 +99,7 @@ a {
     font-weight: bold;
 }
 
-.img-placeholder {
+.intro-img-placeholder {
     height: 300px;
     width: 600px;
     background-color: #b6b6b6;
