@@ -142,6 +142,8 @@ a {
 .quote {
     flex-direction: column;
     background-color: #E5E7EB;
+    padding-top: 80px;
+    padding-bottom: 40px;
 }
 
 .quote-container {
