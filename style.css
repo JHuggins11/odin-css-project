@@ -169,6 +169,10 @@ a {
 }
 
 /* Fourth section */
+.signup-box {
+    margin: 100px auto;
+}
+
 .signup-box-left {
     flex-direction: column;
 }
