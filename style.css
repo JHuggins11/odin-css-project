@@ -173,4 +173,12 @@ a {
     flex-direction: column;
 }
 
+.call-to-action-heading {
+    margin: 5px;
+}
+
+.call-to-action-subtext {
+    margin: 0;
+}
+
 /* Footer */
