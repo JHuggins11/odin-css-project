@@ -172,6 +172,7 @@ a {
 .signup-box {
     margin: 100px auto;
     gap: 240px;
+    background-color: #3882F6;
 }
 
 .signup-box-left {
