@@ -171,6 +171,7 @@ a {
 /* Fourth section */
 .signup-box {
     margin: 100px auto;
+    gap: 240px;
 }
 
 .signup-box-left {
