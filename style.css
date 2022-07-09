@@ -169,12 +169,16 @@ a {
 }
 
 /* Fourth section */
+.signup-box,
+.btn-signup-box {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
 .signup-box {
     padding: 40px 100px;
     margin: 100px auto;
     gap: 240px;
-    background-color: #3882F6;
-    color: #F9FAF8
 }
 
 .signup-box-left {
@@ -188,6 +192,17 @@ a {
 
 .call-to-action-subtext {
     margin: 0;
+}
+
+.btn-signup-box {
+    align-self: center;
+    height: 35px;
+    width: 110px;
+    padding: 0;
+    border: 2px solid #F9FAF8;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: bold;
 }
 
 /* Footer */
