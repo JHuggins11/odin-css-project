@@ -209,6 +209,7 @@ a {
 
 /* Footer */
 footer {
+    padding: 25px 0;
     justify-content: center;
     background-color: #1F2937;
 }
