@@ -48,7 +48,7 @@ a {
 
 .header-logo,
 .hero,
-.btn-signup {
+.btn-hero-signup {
     color: #F9FAF8;
 }
 
@@ -84,7 +84,7 @@ a {
     margin-bottom: 12px;
 }
 
-.btn-signup {
+.btn-hero-signup {
     width: 100px;
     padding: 8px;
     border: 0;
