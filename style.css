@@ -169,6 +169,8 @@ a {
 }
 
 /* Fourth section */
-
+.signup-box-left {
+    flex-direction: column;
+}
 
 /* Footer */
