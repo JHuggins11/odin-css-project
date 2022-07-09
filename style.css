@@ -11,7 +11,10 @@ section,
 .intro-left,
 .intro-right,
 .info-img-container,
-.info-img {
+.info-img,
+.signup-box,
+.signup-box-left,
+.signup-box-right {
     display: flex;
 }
 
